@@ -1,0 +1,5 @@
+遇见URL找不到检查顺序：
+1，先查看request请求的URL是否正确
+2，查看urls.py，是否配置正确
+3，查看settings.py，是否配置正确
+4，查看views.py 图形文件是否返回内容设置正确
